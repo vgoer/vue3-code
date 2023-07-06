@@ -3,6 +3,6 @@
 
 
 ### coder
-> 作者： goer
-> goer
-> yes 
+>
+> - by goer
+> - codeing in world.
